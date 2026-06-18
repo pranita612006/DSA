@@ -1,4 +1,4 @@
-//This is initial stage of my coding where did simple hello world and input output program in cpp
+//This is initial stage of my coding where i did simple hello world and input output program in cpp
 #include <iostream>
 using namespace std;
 int main()
