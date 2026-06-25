@@ -7,7 +7,7 @@ int main(){
     int arra[4];
     int count = 0;
 
-    cout<<"enter values: \n";
+    cout<<"enter 4 values: \n";
     for(int i=0; i<4; i++){
         cin>>arra[i];
         if(arra[i]==target){
