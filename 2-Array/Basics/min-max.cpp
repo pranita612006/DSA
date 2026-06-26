@@ -38,7 +38,8 @@ return 0;
 
 }
 
-/*Miastakes:
+/*
+Miastakes:
 1] logic is correct but accessing arr[i] rather than minimum or maximum
 2] wrong condition (< or >) used in if statement
 3] entered cout statements outside the for loop then i got error: 'i' was not declared in this scope    

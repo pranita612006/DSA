@@ -13,7 +13,7 @@ void revArray(int arr[], int size){
 
 int main(){
     int size;
-    cout<<"Enter size or array : ";
+    cout<<"Enter size of array : ";
     cin>>size;
     int arr[size];
     cout<<"Elements : ";
@@ -33,6 +33,7 @@ return 0;
 }
 
 /*
+Miastakes:
 1] wrting cin in 2nd for 
 2] writing cout in 1st for
 3] not writing last cout

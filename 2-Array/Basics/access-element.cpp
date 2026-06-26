@@ -22,7 +22,8 @@ int main(){
     
 }
 
-/*Miastakes:
+/*
+Miastakes:
 1] forgot to use namespace
 2] accessed whole array as cin>>arra; cout<<arra;
 3] used  cout<<"enter values of element "<<i<<":"; insted normal cout<<"enter values";

@@ -22,7 +22,8 @@ int main(){
 return 0;
 }
 
-/* Mistakes 
+/* 
+Mistakes: 
 1] i did not used count variable tried to get target using simple comparision 
 2] used = in if(arra[i]==target) 
 */
