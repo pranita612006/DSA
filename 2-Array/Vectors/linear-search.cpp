@@ -27,6 +27,9 @@ int main(){
     return 0;
 }
 
+// TIME COMPLEXITY - O(n)
+// SPACE COMPLEXITY - inout space O(n), extra space O(1)
+
 /*
 Mistakes:
 1] Using unnecessary function

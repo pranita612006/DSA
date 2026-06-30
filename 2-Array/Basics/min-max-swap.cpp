@@ -45,6 +45,10 @@ return 0;
 
 }
 
+
+// TIME COMPLEXITY - O(n)
+// SPACE COMPLEXITY - inout space O(n), extra space O(1)
+
 /*
 Miastakes:
 1] not using swap() writing maximum=minimum and minimum=maximum

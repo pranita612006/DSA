@@ -38,6 +38,10 @@ return 0;
 
 }
 
+// TIME COMPLEXITY - O(n)
+// SPACE COMPLEXITY - inout space O(n), extra space O(1)
+
+
 /*
 Miastakes:
 1] logic is correct but accessing arr[i] rather than minimum or maximum

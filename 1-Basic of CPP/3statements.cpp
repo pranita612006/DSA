@@ -5,7 +5,7 @@ using namespace std;
         int age;
         cin>>age;
          // if-else statement
-         if(age>=18){
+        if(age>=18){
             cout<<"You are adult"<<endl;
         }else{
             cout<<"You are not adult"<<endl;
@@ -48,3 +48,6 @@ int main(){
     
 return 0;
 }
+
+// TIME COMPLEXITY - O(1)
+// SPACE COMPLEXITY - inout space O(1), extra space O(1)

@@ -3,7 +3,7 @@
 using namespace std;
 
 void intersect(int arr1[], int n, int arr2[], int m){
-     for(int i = 0; i<n; i++){
+    for(int i = 0; i<n; i++){
         for(int j = 0; j<m; j++){
             if(arr1[i] == arr2[j]){
                 cout<<arr1[i]<<" ";
@@ -39,3 +39,13 @@ int main(){
 
     return 0; 
 }
+
+
+// TIME COMPLEXITY - O(n*m)
+// SPACE COMPLEXITY - inout space O(n*m), extra space O(1)
+
+/*
+Mistakes:
+1] Not using two loops perfectly
+2] not giving correct parameters to function (dataypes) 
+*/

@@ -10,3 +10,6 @@ int main()
 	cout<<"value of x is "<<x<<" and value of y is "<<y;
 	return 0;
 }
+
+// TIME COMPLEXITY - O(1)
+// SPACE COMPLEXITY - inout space O(1), extra space O(1)

@@ -34,6 +34,10 @@ return 0;
 
 }
 
+// TIME COMPLEXITY - O(n^2)
+// SPACE COMPLEXITY - inout space O(n), extra space O(1)
+
+
 /*
 Miastakes:
 1] using = not ==
