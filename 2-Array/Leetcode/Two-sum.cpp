@@ -1,4 +1,3 @@
-https://leetcode.com/problems/two-sum/submissions/2052560081
 
 class Solution {
 public:
