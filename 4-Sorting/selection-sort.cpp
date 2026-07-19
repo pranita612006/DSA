@@ -1,3 +1,4 @@
+//WAF to implement Selection sort
 #include <iostream>
 using namespace std;
 //Ascending
